@@ -8,6 +8,6 @@ As a user\
 So i can choose a bookmark\
 I'd like to see a list of all stored bookmarks
 
-As santa. 
+As santa\
 So i know where the good developers live\
 I'd need to be able to add their address to the list of bookmarks
