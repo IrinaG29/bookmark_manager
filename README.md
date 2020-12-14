@@ -80,7 +80,7 @@ I'd like users to only manage their bookmarks.
 
 # Domain models
 -------------------------
-![image](Screenshot 2020-12-14 at 15.54.27.png)
+![image](https://user-images.githubusercontent.com/37899538/102105215-0c8ac600-3e27-11eb-9ee3-179f989f8d6d.png)
 
 
 
