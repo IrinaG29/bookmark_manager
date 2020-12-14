@@ -77,3 +77,17 @@ I'd like to be the only one to manage my bookmarks.
 As a user\
 So my bookmarks are not changed by someone else\
 I'd like users to only manage their bookmarks. 
+
+# Domain models
+-------------------------
+![](Screenshot 2020-12-14 at 15.54.27.png)
+
+
+
+
+
+
+
+
+
+
