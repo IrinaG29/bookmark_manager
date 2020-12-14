@@ -1,6 +1,6 @@
 # bookmark_manager
 -------------------------
-As an angry cat
+As an angry cat\
 So i can order tuna\
 I need to have a list of bookmarks with the tuna websites.
 
@@ -20,3 +20,10 @@ I need to add a bookmark to my existing list.
 
 -------------------------
 
+As a very annoying person\
+So i can annoy as many as possible\
+I need to be able to delete all their bookmarks. 
+
+As a user\
+So i can free up space of my bookmark list\
+I need to be able to delete my bookmarks. 
