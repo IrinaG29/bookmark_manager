@@ -82,6 +82,9 @@ I'd like users to only manage their bookmarks.
 -------------------------
 ![image](https://user-images.githubusercontent.com/37899538/102105215-0c8ac600-3e27-11eb-9ee3-179f989f8d6d.png)
 
+![image](https://user-images.githubusercontent.com/37899538/102105318-29bf9480-3e27-11eb-9570-eaea678a6f4b.png)
+
+![image](https://user-images.githubusercontent.com/37899538/102105366-3a700a80-3e27-11eb-9d0c-58e82d7c8645.png)
 
 
 
