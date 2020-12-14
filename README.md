@@ -60,7 +60,7 @@ I'd like to be able to tag bookmarks into categories.
 
 -------------------------
 
-As sherlock Holmes 
+As sherlock Holmes\
 So i can find the clue bookmarks that share the same tag\
 I'd like to be able to filter bookmarks by tag.
 
