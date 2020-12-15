@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/amantank/Desktop/ruby projects/Course/Week4/bookmark_manager/spec/bookmark_spec.rb": {
+      "/Users/milou/Projects/bookmark_manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -18,19 +18,14 @@
           null
         ]
       },
-      "/Users/amantank/Desktop/ruby projects/Course/Week4/bookmark_manager/spec/features/simple_feature_test_spec.rb": {
+      "/Users/milou/Projects/bookmark_manager/spec/features/viewing_bookmark_spec.rb": {
         "lines": [
           1,
           1,
           1,
           1,
           null,
-          null
-        ]
-      },
-      "/Users/amantank/Desktop/ruby projects/Course/Week4/bookmark_manager/spec/features/viewing_bookmark_spec.rb": {
-        "lines": [
-          1,
+          null,
           1,
           1,
           1,
@@ -41,6 +36,6 @@
         ]
       }
     },
-    "timestamp": 1607968467
+    "timestamp": 1608030981
   }
 }

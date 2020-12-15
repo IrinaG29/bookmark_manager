@@ -6,7 +6,7 @@ require 'capybara/rspec'
 require 'bookmark'
 require_relative '../app'
 
-Capybara.app = App
+Capybara.app = BookMarkManager
 
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
   SimpleCov::Formatter::Console,
