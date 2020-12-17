@@ -7,14 +7,14 @@ feature 'Viewing bookmarks' do
   end
 
   scenario 'A cat can see bookmark' do
-    
-    Bookmark.create(url: 'http://www.makersacademy.com')
-    Bookmark.create(url: 'http://www.destroyallsoftware.com')
-    Bookmark.create(url: 'http://www.google.com')
+
+    Bookmark.create(title: "Kikis cat", url: 'http://www.makersacademy.com')
+    Bookmark.create(title: "Kikis cat", url: 'http://www.destroyallsoftware.com')
+    Bookmark.create(title: "Kikis cat", url: 'http://www.google.com')
 
     visit ('/bookmarks')
-    expect(page).to have_content "http://www.makersacademy.com"
-    expect(page).to have_content "http://www.destroyallsoftware.com"
-    expect(page).to have_content "http://www.google.com"
+    expect(page).to have_link("Kikis cat", href: "http://www.makersacademy.com")
+    expect(page).to have_link("Kikis cat", href: "http://www.destroyallsoftware.com")
+    expect(page).to have_link("Kikis cat", href: "http://www.google.com")
   end
 end
